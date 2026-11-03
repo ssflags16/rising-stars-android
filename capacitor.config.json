@@ -1,0 +1,9 @@
+{
+  "appId": "pk.risingstars.school",
+  "appName": "Rising Stars School",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "backgroundColor": "#e4e9fb"
+}
